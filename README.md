@@ -1,4 +1,4 @@
-# Master_thesis_code
+# A trading strategy based on deep learning.
 Some notebooks for my master thesis.
 
 Forecasting_part is about NN approaches for financial time series forecasting
